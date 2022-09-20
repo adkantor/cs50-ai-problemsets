@@ -1,5 +1,11 @@
 # Shopping
+### Project 4.1 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Shopping](https://youtu.be/UEgPTW2rZGg)
+<br><br>
+
+## Task
 Write an AI to predict whether online shopping customers will complete a purchase.
 
 ```
@@ -12,7 +18,7 @@ True Negative Rate: 90.55%
 ```
 
 ## Background
-Your task in this problem is to build a *nearest-neighbor classifier* to solve this problem. Given information about a user ? how many pages they've visited, whether they're shopping on a weekend, what web browser they're using, etc. ? your classifier will predict whether or not the user will make a purchase. Your classifier won't be perfectly accurate ? perfectly modeling human behavior is a task well beyond the scope of this class ? but it should be better than guessing randomly. To train your classifier, we'll provide you with some data from a shopping website from about 12,000 users sessions.
+Your task in this problem is to build a *nearest-neighbor classifier* to solve this problem. Given information about a user - how many pages they've visited, whether they're shopping on a weekend, what web browser they're using, etc. - your classifier will predict whether or not the user will make a purchase. Your classifier won't be perfectly accurate - perfectly modeling human behavior is a task well beyond the scope of this class - but it should be better than guessing randomly. To train your classifier, we'll provide you with some data from a shopping website from about 12,000 users sessions.
 
 ## Specification
 Complete the implementation of ```load_data```, ```train_model```, and ```evaluate``` in ```shopping.py```.

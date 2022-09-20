@@ -1,5 +1,11 @@
 # Questions
+### Project 6.2 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Questions](https://youtu.be/aJwgSrBxhVc)
+<br><br>
+
+## Task
 Write an AI to answer questions.
 
 ```

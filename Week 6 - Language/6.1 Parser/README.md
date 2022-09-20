@@ -1,5 +1,11 @@
 # Parser
+### Project 6.1 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Parser](https://youtu.be/GdhV5Qv-bp0)
+<br><br>
+
+## Task
 Write an AI to parse sentences and extract noun phrases.
 
 ```

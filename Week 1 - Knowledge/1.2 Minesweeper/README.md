@@ -1,4 +1,11 @@
 # Minesweeper
+### Project 1.2 for CS50's Introduction to Artificial Intelligence with Python
+<br>
+
+See presentation on implementation here: [CS50AI - Minesweeper](https://youtu.be/ge8xNcV2a1o)
+<br><br>
+
+## Task
 
 Your goal in this project will be to build an AI that can play Minesweeper, using *Propositional Logic*. Recall that knowledge-based agents make decisions by considering their knowledge base, and making inferences based on that knowledge.
 

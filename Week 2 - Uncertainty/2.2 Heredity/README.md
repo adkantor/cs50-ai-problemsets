@@ -1,5 +1,11 @@
 # Heredity
+### Project 2.2 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Heredity](https://youtu.be/oTqD0Zzy7I8)
+<br><br>
+
+## Task
 Write an AI to assess the likelihood that a person will have a particular genetic trait.
 ```
 $ python heredity.py data/family0.csv

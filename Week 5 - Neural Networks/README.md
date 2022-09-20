@@ -1,5 +1,11 @@
 # Traffic
+### Project 5 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Traffic](https://youtu.be/tBNQhtWdWIs)
+<br><br>
+
+## Task
 Write an AI to identify which traffic sign appears in a photograph.
 ```
 $ python traffic.py gtsrb

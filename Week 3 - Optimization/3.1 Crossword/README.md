@@ -1,5 +1,11 @@
 # Crossword
+### Project 3 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Crossword](https://youtu.be/waTf-gjzjbw)
+<br><br>
+
+## Task
 Write an AI to generate crossword puzzles.
 
 ```

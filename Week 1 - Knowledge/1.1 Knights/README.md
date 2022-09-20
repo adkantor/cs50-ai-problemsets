@@ -1,5 +1,13 @@
 # Knights
 
+### Project 1.1 for CS50's Introduction to Artificial Intelligence with Python
+<br>
+
+See presentation on implementation here: [CS50AI - Knights](https://youtu.be/z8D_0GjizA0)
+<br><br>
+
+## Task
+
 Write a program to solve logic puzzles.
 
 ## Background

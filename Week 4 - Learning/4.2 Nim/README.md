@@ -1,5 +1,11 @@
-# Crossword
+# Nim
+### Project 4.2 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - Nim](https://youtu.be/ZavjtGaOl9g)
+<br><br>
+
+## Task
 Write an AI that teaches itself to play Nim through reinforcement learning.
 
 ```

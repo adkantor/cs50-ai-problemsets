@@ -1,4 +1,11 @@
 # Degrees
+### Project 0.1 for CS50's Introduction to Artificial Intelligence with Python
+<br>
+
+See presentation on implementation here: [CS50AI - Degrees](https://youtu.be/GxuHD3t6tZE)
+<br><br>
+
+## Task
 
 Write a program that determines how many ?degrees of separation? apart two actors are.
 ```

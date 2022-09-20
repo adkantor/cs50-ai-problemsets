@@ -1,5 +1,11 @@
 # PageRank
+### Project 2.1 for CS50's Introduction to Artificial Intelligence with Python
+<br>
 
+See presentation on implementation here: [CS50AI - PageRank](https://youtu.be/cQRfP2XUTSc)
+<br><br>
+
+## Task
 Write an AI to rank web pages by importance.
 
 ```

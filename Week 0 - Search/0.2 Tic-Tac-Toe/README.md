@@ -1,4 +1,11 @@
 # Tic-Tac-Toe
+### Project 0.2 for CS50's Introduction to Artificial Intelligence with Python
+<br>
+
+See presentation on implementation here: [CS50AI - Tic-Tac-Toe](https://youtu.be/pgiDv7eg76I)
+<br><br>
+
+## Task
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
